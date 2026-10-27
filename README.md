@@ -104,7 +104,7 @@ If you find AnTBench useful, please cite:
 ```bibtex
 @inproceedings{wei2026can,
   title={Can LLMs Spot Data Anomalies That Make Table QA Impossible?},
-  author={Wei, Yucheng and Yang, Shenzhi and Wang, Ning and Zhang, Jinchang and Yang, Yuhang and Wang, Haobo and Zha, Liangyu and Ye, Wentao and Li, Liyao and Peng, Cheng and others},
+  author={Wei, Yucheng and Yang, Shenzhi and Wang, Ning and Zhang, Jinchang and Yang, Yuhang and Wang, Haobo and Zha, Liangyu and Ye, Wentao and Li, Liyao and Peng, Cheng and Chen, Gang},
   booktitle={Findings of the Association for Computational Linguistics: EMNLP 2026},
   pages={21952--21987},
   year={2026}
