@@ -1,0 +1,10 @@
+openai
+pandas
+tqdm
+tiktoken
+evaluate
+datasets
+numpy
+scikit-learn
+vllm
+transformers
